@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "table-scraper": "^0.1.0",
+    "table-scraper": "^1.0.3",
     "tabulator-tables": "^4.6.3"
   }
 }
